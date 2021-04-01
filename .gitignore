@@ -1,0 +1,5 @@
+venv
+main.py
+.idea
+manage.py
+db.sqlite3
